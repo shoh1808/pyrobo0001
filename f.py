@@ -1,2 +1,1 @@
-def qosh(a,b):
-  return int(a)+int(b)
+print(sum(list(map(int,input().split()))))
